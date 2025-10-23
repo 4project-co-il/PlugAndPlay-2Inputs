@@ -2708,7 +2708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal"
 			(at 34.29 33.02 0)
 			(effects
 				(font
@@ -2862,7 +2862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(property "Footprint" "Library:PogoPinsPads_1x04_P2.5mm"
 			(at 156.21 71.12 0)
 			(effects
 				(font
@@ -3855,7 +3855,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TerminalBlock_TE-Connectivity:TerminalBlock_TE_282834-2_1x02_P2.54mm_Horizontal"
+		(property "Footprint" "TerminalBlock_4Ucon:TerminalBlock_4Ucon_1x02_P3.50mm_Horizontal"
 			(at 34.29 59.69 0)
 			(effects
 				(font
