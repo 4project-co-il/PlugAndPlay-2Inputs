@@ -4583,6 +4583,7 @@
 		(property "Reference" "J4"
 			(at 0 2.77 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b5189229-b80b-443e-bf1e-431109a42976")
 			(effects
 				(font
@@ -4595,6 +4596,7 @@
 		(property "Value" "Conn_01x04"
 			(at 0 -10.39 180)
 			(layer "B.Fab")
+			(hide yes)
 			(uuid "542957d1-81ae-4dfd-9afb-07cfcceb0e55")
 			(effects
 				(font
