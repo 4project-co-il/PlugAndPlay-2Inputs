@@ -4915,7 +4915,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "IN 0"
+	(gr_text "IN 1"
 		(at 46.8 38.861072 90)
 		(layer "F.SilkS")
 		(uuid "70986637-b0ca-4f66-a10a-43dba1fc70f7")
@@ -4928,7 +4928,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "IN 1"
+	(gr_text "IN 0"
 		(at 46.8 60.796072 90)
 		(layer "F.SilkS")
 		(uuid "d2fb5ad3-ec4c-45c1-aacb-5e9627c5173a")
