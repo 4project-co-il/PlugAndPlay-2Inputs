@@ -1,4 +1,3 @@
-# PlugAndPlay-2Inputs
 # PlugAndPlay: Input module with 2 screw terminals
 This is the repository with the files for PlugAndPlay input module with 2 screw terminals
 
